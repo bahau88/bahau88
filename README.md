@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Baha
 - 👀 I’m interested in Drones (UAVs), Machine Learning (Computer Vision), and Web/Software/App Development
 - 🌱 I’m currently learning Python, C++, HTML, JavaScript
-- 💞️ I’m looking to collaborate on Autonomous Driving Car / Drone Projects
+- 💞️ I’m looking to collaborate on AI, Embedded Systems, Autonomous vehicles / Drone, and Intelligent Robot projects
 - 📫 How to reach me : DM me on twitter
 
 <!---
