@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bahauddin
-- 👀 I’m interested in Drones (UAVs) and Machine Learning (Computer Vision)
+- 👋 Hi, I’m Baha
+- 👀 I’m interested in Drones (UAVs), Machine Learning (Computer Vision), and Web/Software/App Development
 - 🌱 I’m currently learning Python, C++, HTML, JavaScript
 - 💞️ I’m looking to collaborate on Autonomous Driving Car / Drone Projects
 - 📫 How to reach me : please contact me through email
